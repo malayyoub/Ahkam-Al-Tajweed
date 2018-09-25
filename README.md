@@ -1,5 +1,8 @@
 # Ahkam-Al-Tajweed
-This repository is related to our work on automatically determining correct application of basic Quranic recitation rules
+This repository is related to our work on automatically determining correct application of basic Quranic recitation rules.
+
+Raw data:
+https://www.researchgate.net/publication/327869102
 
 Please, cite the following papers if you utilize the resources in this project:
 
